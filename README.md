@@ -1,6 +1,9 @@
 # Connect4 AI Tournament
 
-> This is a python-based Connect4 game engine and GUI that supports both human and AI players. The implemented AI agents are: Random Agent, Minimax + alpha-beta pruning, Heuristic Search, Monte Carlo Tree Search, and Deep Q Reinforcement Learning.  
+> This is a python-based Connect4 game engine and GUI that supports both human and AI players. The implemented AI agents are: Random Agent, Minimax + alpha-beta pruning, Heuristic Search, Monte Carlo Tree Search, and Deep Q Reinforcement Learning.
+
+## Author
+**Max Rome** - Primary Developer and Implementer  
 
 ## Content
 
@@ -55,8 +58,9 @@ The following instructions are for saving the repository to play games locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jcarlson21/Connect4AI.git
+   git clone https://github.com/YOUR_USERNAME/Connect4AI.git
    ```
+   *(Replace YOUR_USERNAME with your actual GitHub username)*
 
 2. Ensure you are in the correct folder (./Connect4AI)
 
